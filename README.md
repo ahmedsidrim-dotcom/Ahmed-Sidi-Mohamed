@@ -5,6 +5,14 @@ I am a Sophomore **Artificial Intelligence** student at the *Arab Academy for Sc
 
 ---
 
+## 🌍 Languages
+
+- 🇸🇦 **Arabic:** Native
+- 🇫🇷 **French:** Fluent / Bilingual
+- 🇬🇧 **English:** Professional Working Proficiency
+
+---
+
 ## ⚡ What I Bring to the Table
 
 * 🧩 **Deep Software Engineering Foundations:** Proficient in **C** (memory management, low-level algorithms) and **Java** (Object-Oriented Design, robust architectures).
@@ -41,4 +49,5 @@ I am a Sophomore **Artificial Intelligence** student at the *Arab Academy for Sc
 
 ## 🤝 Let's Connect!
 
-* 📧 **Email:** Ahmedsidrim@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sidi-mohamed-ahmed-5a529438b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmedsidrim@gmail.com)
