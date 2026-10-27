@@ -1,47 +1,44 @@
-# Ahmed-Sidi-Mohamed
-# Hi there, I'm Ahmed Sidi Mohamed 👋
+# Hi, I'm Ahmed Sidi Mohamed 👋
+### 🚀 Computer Science & AI Student | Crafting High-Performance Code
 
-### 🤖 Computer Science & AI Student (2nd Year @ AASTMT)
-Sophomore Artificial Intelligence student at the **Arab Academy for Science, Technology and Maritime Transport (AASTMT Smart Village)**. 
-
-Focused on building strong foundations in **Software Engineering, Data Structures, OOP, and Applied AI/ML**.
+I am a Sophomore **Artificial Intelligence** student at the *Arab Academy for Science, Technology and Maritime Transport (AASTMT)*. Passionate about software engineering fundamentals, low-level optimization, and building intelligent systems from the ground up.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## ⚡ What I Bring to the Table
 
-- **Core Languages:** Python, C++, C, SQL
-- **Computer Science Fundamentals:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Git/GitHub
-- **AI & Data Science (Currently Exploring):** NumPy, Pandas, Scikit-Learn, OpenCV, Data Visualization
-- **Tools & Environments:** VS Code, Docker basics, Linux (macOS)
+* 🧩 **Deep Software Engineering Foundations:** Proficient in **C** (memory management, low-level algorithms) and **Java** (Object-Oriented Design, robust architectures).
+* 🤖 **AI & Problem Solving Focus:** Blending core Data Structures and Object-Oriented Principles to build efficient ML/AI models.
+* 💻 **Clean Code Advocate:** Writing structured, scalable, and maintainable software.
 
 ---
 
-## 📌 Highlighted Projects
+## 🛠️ Tech Stack & Skills
 
-### 🧠 [Ahmed-Sidi-Mohamed](./Ahmed-Sidi-Mohamed)
-> Personal AI Showcase and Github Profile Overview.
+- **Core Languages:** C, Java, Python
+- **Software Engineering:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Git & GitHub
+- **Systems & Tools:** Linux/macOS, VS Code, Git
+- **Applied AI (In Progress):** NumPy, Pandas, OpenCV, Scikit-Learn
+
+---
+
+## 📌 Featured Repositories
 
 ### 🧮 [C-calculator](./C-calculator)
-> A lightweight CLI Calculator application written in C.
+> A high-performance, lightweight CLI calculator application written in pure C.
+
+### 🧠 [Ahmed-Sidi-Mohamed](./Ahmed-Sidi-Mohamed)
+> Personal Developer & AI Engineering Showcase.
 
 ---
 
-## 🎯 Current Focus (Year 2 Goals)
-
-- 🔹 Deepening Data Structures & Algorithms knowledge.
-- 🔹 Building end-to-end Machine Learning models using Python.
-- 🔹 Solving problem-solving challenges on Codeforces / LeetCode.
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsidrim-dotcom&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsidrim-dotcom&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect!
 
-- 📧 **Email:** Ahmedsidrim@gmail.com
+* 📧 **Email:** Ahmedsidrim@gmail.com
